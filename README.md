@@ -1,0 +1,2 @@
+# gitty
+simplified git gui
